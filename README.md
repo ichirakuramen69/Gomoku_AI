@@ -29,7 +29,7 @@ Gomoku is a strategic board game where two players take turns placing their piec
 
 3. Run the game:
     ```bash
-    python gomoku.py
+    python Gomoku.py
     ```
 
 ## Gameplay Instructions
