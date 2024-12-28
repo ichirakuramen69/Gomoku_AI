@@ -19,7 +19,7 @@ Gomoku is a strategic board game where two players take turns placing their piec
 1. Clone the repository:
     ```bash
     git clone <repository_url>
-    cd gomoku-game
+    cd Gomoku_AI
     ```
 
 2. Install the required dependencies:
