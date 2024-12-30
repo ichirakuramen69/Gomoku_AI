@@ -59,7 +59,10 @@ Gomoku is a strategic board game where two players take turns placing their piec
 
 ## Screenshots
 
-Add screenshots here to showcase gameplay and the UI.
+![image](https://github.com/user-attachments/assets/10e85d4a-de3e-48fb-8b61-a5a3e6547aa8)
+
+![image](https://github.com/user-attachments/assets/ae927f57-a750-468b-8f95-e4345b76545e)
+
 
 ## Future Improvements
 
